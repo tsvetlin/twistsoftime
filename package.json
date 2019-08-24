@@ -1,0 +1,26 @@
+{
+  "name": "twistsoftimebackend",
+  "version": "1.0.0",
+  "description": "Twists Of Time",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tsvetlin/twistsoftime.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Svetlin Tanyi <svetlintanyi@gmail.com>",
+  "license": "EPL-2.0",
+  "bugs": {
+    "url": "https://github.com/tsvetlin/twistsoftime/issues"
+  },
+  "homepage": "https://github.com/tsvetlin/twistsoftime#readme",
+  "dependencies": {
+    "json-server": "^0.15.0",
+    "json-server-auth": "^1.2.1"
+  }
+}

@@ -21,6 +21,7 @@
   "homepage": "https://github.com/tsvetlin/twistsoftime#readme",
   "dependencies": {
     "json-server": "^0.15.0",
-    "json-server-auth": "^1.2.1"
+    "json-server-auth": "^1.2.1",
+    "multer": "^1.4.2"
   }
 }

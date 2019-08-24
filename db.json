@@ -1,3 +1,24 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "tst@ts.as",
+      "password": "$2a$10$gh/xXePNjGX3lAKLD7EI5unK2V.TPeHcoRQexhWvYgRka7WfuHDP.",
+      "id": 1
+    },
+    {
+      "email": "tst@ts.ass",
+      "password": "$2a$10$Cr9TZnrrj2rc/2e80Ckdp.TtKsIlnrJ59RZjRO6Hy5wykq7QeSynm",
+      "id": 2
+    },
+    {
+      "email": "tst@ts.asss",
+      "password": "$2a$10$uCqavQf6CFwRnjIMDv/HxO50xamAFlYH5ChEXfNkJHuZ4QBxwG53C",
+      "id": 3
+    },
+    {
+      "email": "1tst@ts.asss",
+      "password": "$2a$10$997YTo56Jv7bJthmbynxwuHDU6Nk4E7tljMg3HQEvoAvs5lCXZpGq",
+      "id": 4
+    }
+  ]
 }
